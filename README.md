@@ -38,7 +38,7 @@ A full-stack web app to visually track your travel journey. Mark the countries y
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Travel-Tracker.git
+   git clone https://github.com/Nipun-Gupta-codes/Travel-Tracker.git
    cd Travel-Tracker
    ```
 
